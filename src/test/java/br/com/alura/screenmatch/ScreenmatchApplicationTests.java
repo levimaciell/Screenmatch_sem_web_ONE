@@ -1,10 +1,10 @@
-package dev.levimaciell.Screenmatch_v2;
+package br.com.alura.screenmatch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ScreenmatchV2ApplicationTests {
+class ScreenmatchApplicationTests {
 
 	@Test
 	void contextLoads() {
